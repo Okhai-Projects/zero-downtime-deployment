@@ -1,4 +1,4 @@
-# Zero-Downtime Deployment Workshop
+# Zero-Downtime Deployment
 
 ## Overview
 
